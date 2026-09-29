@@ -1,0 +1,54 @@
+[
+  {
+    "screen": "catalog-master",
+    "violations": []
+  },
+  {
+    "screen": "entry-from-catalog",
+    "violations": []
+  },
+  {
+    "screen": "monthly-needs",
+    "violations": []
+  },
+  {
+    "screen": "new-monthly-order",
+    "violations": []
+  },
+  {
+    "screen": "order-draft-spreadsheet",
+    "violations": []
+  },
+  {
+    "screen": "physical-receipt-1",
+    "violations": []
+  },
+  {
+    "screen": "physical-receipt-2",
+    "violations": []
+  },
+  {
+    "screen": "order-received-desktop",
+    "violations": []
+  },
+  {
+    "screen": "order-cards-390",
+    "violations": []
+  },
+  {
+    "screen": "order-cards-844",
+    "violations": []
+  },
+  {
+    "screen": "order-cards-320",
+    "violations": []
+  },
+  {
+    "screen": "order-cards-640",
+    "violations": []
+  },
+  {
+    "screen": "order-cards-768",
+    "violations": []
+  }
+]

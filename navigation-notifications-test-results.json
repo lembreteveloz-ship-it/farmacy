@@ -1,0 +1,34 @@
+[
+  {
+    "screen": "consolidated-navigation",
+    "violations": []
+  },
+  {
+    "screen": "notification-panel-desktop",
+    "violations": []
+  },
+  {
+    "screen": "notification-panel-1440",
+    "violations": []
+  },
+  {
+    "screen": "notification-panel-390",
+    "violations": []
+  },
+  {
+    "screen": "notification-panel-844",
+    "violations": []
+  },
+  {
+    "screen": "notification-panel-320",
+    "violations": []
+  },
+  {
+    "screen": "notification-panel-640",
+    "violations": []
+  },
+  {
+    "screen": "notifications-restricted-user",
+    "violations": []
+  }
+]

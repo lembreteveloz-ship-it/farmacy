@@ -1,0 +1,138 @@
+[
+  {
+    "screen": "login",
+    "violations": []
+  },
+  {
+    "screen": "login-width-320",
+    "violations": []
+  },
+  {
+    "screen": "login-width-390",
+    "violations": []
+  },
+  {
+    "screen": "login-width-640",
+    "violations": []
+  },
+  {
+    "screen": "login-width-853",
+    "violations": []
+  },
+  {
+    "screen": "reset-password",
+    "violations": []
+  },
+  {
+    "screen": "dashboard",
+    "violations": []
+  },
+  {
+    "screen": "change-password",
+    "violations": []
+  },
+  {
+    "screen": "new-user",
+    "violations": []
+  },
+  {
+    "screen": "medicines",
+    "violations": []
+  },
+  {
+    "screen": "lots",
+    "violations": []
+  },
+  {
+    "screen": "movements",
+    "violations": []
+  },
+  {
+    "screen": "transfers",
+    "violations": []
+  },
+  {
+    "screen": "inventory",
+    "violations": []
+  },
+  {
+    "screen": "alerts",
+    "violations": []
+  },
+  {
+    "screen": "reports",
+    "violations": []
+  },
+  {
+    "screen": "requisitions",
+    "violations": []
+  },
+  {
+    "screen": "losses",
+    "violations": []
+  },
+  {
+    "screen": "replenishment",
+    "violations": []
+  },
+  {
+    "screen": "audit",
+    "violations": []
+  },
+  {
+    "screen": "qr-label-preview",
+    "violations": []
+  },
+  {
+    "screen": "inventory-count",
+    "violations": []
+  },
+  {
+    "screen": "new-transfer",
+    "violations": []
+  },
+  {
+    "screen": "receive-transfer",
+    "violations": []
+  },
+  {
+    "screen": "quick-exit-error",
+    "violations": []
+  },
+  {
+    "screen": "password-1440x900",
+    "violations": []
+  },
+  {
+    "screen": "password-1280x800",
+    "violations": []
+  },
+  {
+    "screen": "password-853x600",
+    "violations": []
+  },
+  {
+    "screen": "password-640x480",
+    "violations": []
+  },
+  {
+    "screen": "password-320x640",
+    "violations": []
+  },
+  {
+    "screen": "password-390x844",
+    "violations": []
+  },
+  {
+    "screen": "password-844x390",
+    "violations": []
+  },
+  {
+    "screen": "password-768x1024",
+    "violations": []
+  },
+  {
+    "screen": "password-1024x768",
+    "violations": []
+  }
+]
